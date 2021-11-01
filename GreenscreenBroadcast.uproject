@@ -15,10 +15,6 @@
 		{
 			"Name": "NDIIOPlugin",
 			"Enabled": true
-		},
-		{
-			"Name": "Volumetrics",
-			"Enabled": true
 		}
 	]
 }
